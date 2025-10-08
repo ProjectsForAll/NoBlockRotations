@@ -1,0 +1,1 @@
+Compress-Archive -Path "assets", "pack.mcmeta" -DestinationPath "NoBlockRotations.zip"
