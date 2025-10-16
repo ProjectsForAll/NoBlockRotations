@@ -1,1 +1,1 @@
-Compress-Archive -Path "NoBlockRotations" -DestinationPath "NoBlockRotations.zip"
+Compress-Archive -Path "NoBlockRotations/*" -DestinationPath "NoBlockRotations.zip"
