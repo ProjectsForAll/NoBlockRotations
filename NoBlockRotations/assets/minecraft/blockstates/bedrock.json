@@ -5,13 +5,13 @@
         "model": "minecraft:block/bedrock"
       },
       {
-        "model": "minecraft:block/bedrock"
+        "model": "minecraft:block/bedrock_mirrored"
       },
       {
         "model": "minecraft:block/bedrock"
       },
       {
-        "model": "minecraft:block/bedrock"
+        "model": "minecraft:block/bedrock_mirrored"
       }
     ]
   }
